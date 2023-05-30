@@ -17,7 +17,7 @@ This project aims to provide a low-cost AWS solution to address the challenge of
 
 ## Architecture Diagram
 
-![High-Level Architecture](https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/ec2_simple_high_availability_architecture_238f1c256f.png)
+![High-Level Architecture](https://cdn.theforage.com/vinternships/companyassets/pmnMSL4QiQ9JCgE3W/4MmBKDutGPxKkaRq4/1638534392235/Architecture%20Diagram.png)
 
 The above diagram illustrates the high-level architecture of the deployed solution. It showcases the interaction between EC2 instances, ELB, Route 53, RDS PostgreSQL, and S3 Glacier Deep Archive.
 
