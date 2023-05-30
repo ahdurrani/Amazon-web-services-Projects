@@ -21,32 +21,7 @@ This project aims to provide a low-cost AWS solution to address the challenge of
 
 The above diagram illustrates the high-level architecture of the deployed solution. It showcases the interaction between EC2 instances, ELB, Route 53, RDS PostgreSQL, and S3 Object storage for backup.
 
-## Setup Instructions
-
-1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
-2. Follow the detailed setup instructions in the [Installation Guide](installation-guide.md) to provision the required AWS resources and configure the infrastructure.
-3. Customize the configurations and settings as per your application requirements.
-4. Deploy your application using the provided Code Pipeline setup and monitor the process.
-
-## Usage
-
-1. Modify the application code in the `src` directory to match your specific requirements.
-2. Commit and push the changes to the repository.
-3. Code Pipeline will automatically detect the changes and trigger the deployment process.
-4. Monitor the deployment pipeline and verify the successful deployment of your application.
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-We would like to express our gratitude to the AWS team for providing excellent documentation and resources on their services, which greatly facilitated the development of this project.
 
 ## Contact
 
-For any inquiries or further information, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or further information, please contact (ahdurrani98@gmail.com).
