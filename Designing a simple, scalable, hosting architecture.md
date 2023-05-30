@@ -17,7 +17,7 @@ This project aims to provide a low-cost AWS solution to address the challenge of
 
 ## Architecture Diagram
 
-![High-Level Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stormit.cloud%2Fblog%2Faws-high-availability-architecture%2F&psig=AOvVaw2NmQbBAQo14rFTNqjjvfoa&ust=1685514733487000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjhr-q1nP8CFQAAAAAdAAAAABAH)
+![High-Level Architecture](https://d1tcczg8b21j1t.cloudfront.net/strapi-assets/ec2_simple_high_availability_architecture_238f1c256f.png)
 
 The above diagram illustrates the high-level architecture of the deployed solution. It showcases the interaction between EC2 instances, ELB, Route 53, RDS PostgreSQL, and S3 Glacier Deep Archive.
 
