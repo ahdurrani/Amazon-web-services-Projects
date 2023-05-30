@@ -4,7 +4,7 @@ Low-Cost AWS Solution for Seamless Application Deployment and Data Management
 
 ## Project Overview
 
-This project aims to provide a low-cost AWS solution to address the challenge of seamless application deployment and efficient data management. By leveraging various AWS services such as EC2, ELB, Route 53, RDS PostgreSQL, and S3 Glacier Deep Archive, we have designed a scalable and resilient infrastructure setup.
+This project aims to provide a low-cost AWS solution to address the challenge of seamless application deployment and efficient data management. By leveraging various AWS services such as EC2, ELB, Route 53, RDS PostgreSQL, and S3 object storage, we have designed a scalable and resilient infrastructure setup.
 
 ## Key Features
 
